@@ -8,9 +8,9 @@ git clone https://github.com/sgael95/TechnicalExercise.git
 
 ## Requirements
 To run project you will need:
-- Git Cli
-- Java installed on machine
-- Maven installed on machine
+- [Git Cli](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on machine
+- [Java](https://www.java.com/en/download/help/download_options.html) installed on machine
+- [Maven](https://maven.apache.org/install.html) installed on machine
 
 ### Test Program
 
